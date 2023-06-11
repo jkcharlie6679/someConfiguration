@@ -12,3 +12,7 @@ This run command use the vim-plugin plugin manager. This file can set your custo
 
 This configuration file is for the tmux.
 
+## NVIM
+
+The neovim configuration.
+
