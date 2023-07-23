@@ -3,6 +3,7 @@ local opt = vim.opt -- for conciseness
 opt.relativenumber = true
 opt.number = true
 
+opt.conceallevel = 0
 -- tabs& indentation
 opt.tabstop = 2
 opt.shiftwidth = 2
@@ -10,7 +11,7 @@ opt.expandtab = true
 opt.autoindent = true
 
 -- line wrapping
-opt.wrap = false
+opt.wrap = true
 
 -- search setting
 opt.ignorecase = true
